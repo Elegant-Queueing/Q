@@ -48,8 +48,13 @@
 - Database design
 
 ## Connor's progress
+- Low fidelity mockups
+- High fidelity mockups
+- Database design / architecture assignment
 
 ## Connor's plan for next week
+- Finish hhigh fidelity mockups
+- Start working on the backend APIs
 
 ## Sachin's last week
 - Architecture design
