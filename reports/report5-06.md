@@ -38,9 +38,11 @@ We substituted employee and student services with queue service and worked on th
 - Finish 3+ pages for employer (web app)
 
 ## Alex's progress
+-Finished employee version web app front-end (w/o APIs)
+-Finished employee API doc
 
 ## Alex's plan for next week
-
+-Incorporate API with employee web front-end
 
 ## Connor's last week
 - Finish high fidelity mockups
