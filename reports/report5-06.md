@@ -66,10 +66,16 @@ Rolled over from last week: 2 APIs - Shouldn't take more than 2 hours however, h
 
 ## Aman's last week
 - Start working on the backend APIs
+- Finish low fidelity testing
+- Research and experiment with CI tools
 
 ## Aman's progress
+- Got hang of spring and our firebase setup to start working on backend services
+- Finished low fidelity testing and gave feedback to Connor for high fidelity diagram.
+- Setup a temporary GitHub repository to play around with different CI tools.
 
 ## Aman's plan for next week
+- Work on student/employee service
 
 
 ## Sarvagya's last week
