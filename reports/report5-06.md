@@ -49,33 +49,38 @@ We substituted employee and student services with queue service and worked on th
 - Start working on the backend APIs
 
 ## Connor's progress
+- Finished first few front end pages for student app (without API)
 
 ## Connor's plan for next week
-
+- Complete all pages for the front end student app (without API)
 
 ## Sachin's last week
 - Finish Employee and Student service
 - Setup employee service
 - Setup physical queue and virtual queue service
+
 Rolled over from last week: 2 APIs - Shouldn't take more than 2 hours however, has a few prerequisites that need to done.
 
 ## Sachin's progress
+- Finished parts of physical queue workflow
+- Finished virtual queue service
+- Reviewed physical queue service and window queue service PRs
+- Set up employee service
+- Made a backend setup guide for other developers
+- Discussed and finished Employee app API doc
+- Set up firebase service and set up the database
 
 ## Sachin's plan for next week
-
+- Finish queue service completely
+- Finish employee service
+- Test queue service and employee service end-to-end
 
 ## Aman's last week
 - Start working on the backend APIs
-- Finish low fidelity testing
-- Research and experiment with CI tools
 
 ## Aman's progress
-- Got hang of spring and our firebase setup to start working on backend services
-- Finished low fidelity testing and gave feedback to Connor for high fidelity diagram.
-- Setup a temporary GitHub repository to play around with different CI tools.
 
 ## Aman's plan for next week
-- Work on student/employee service
 
 
 ## Sarvagya's last week
