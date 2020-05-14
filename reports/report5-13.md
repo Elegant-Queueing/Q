@@ -13,6 +13,8 @@
 - Finished Student front-end (w/o APIs)
 
 ## Plan for next week
+- Add styles to Employee app
+- Clean up wait
 
 ## Agenda for meeting with TA
 
