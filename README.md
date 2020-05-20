@@ -18,10 +18,10 @@ Q is an all-in-one solution for career fairs. We all have attended chaotic caree
 There are 3 parts of Q:
 
    #### Student android app
-   The documentation for the student app can be found at: https://github.com/Elegant-Queueing/student-version 
+   - The documentation for the student app can be found at: https://github.com/Elegant-Queueing/student-version 
    
    #### Employer web app
-   The documentation for the employer app can be found at: https://github.com/Elegant-Queueing/employee-version
+   - The documentation for the employer app can be found at: https://github.com/Elegant-Queueing/employee-version
    
    #### Backend server
-   The documentation for the backend server can be found at: https://github.com/Elegant-Queueing/q-backend
+   - The documentation for the backend server can be found at: https://github.com/Elegant-Queueing/q-backend
