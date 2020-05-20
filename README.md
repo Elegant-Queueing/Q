@@ -15,7 +15,7 @@ Q is an all-in-one solution for career fairs. We all have attended chaotic caree
    - Unable to efficiently maintain and collect notes during conversation with applicants.
    
 ## Various parts of Q
-There are 3 parts of Q:
+There are 3 major components of Q:
 
    #### Student android app
    - The documentation for the student app can be found at: https://github.com/Elegant-Queueing/student-version 
