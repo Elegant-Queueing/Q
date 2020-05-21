@@ -18,6 +18,7 @@
 - Code clean up and comments on Android app
 - Worked on bugs on Android app
 - Finished docs assignment
+- Research for the uploadResume API
 
 ## Plan for next week
 - Tests for Android app
@@ -75,8 +76,21 @@
 - Researching about websockets
 
 ## Aman's progress
+- Completed student service
+- Added validation for student APIs
+- Researched on cloud storage for resume storage
+- Made dummy upload page on Android Studio to test upload of PDF to cloud storage
+- Linked student resume attribute in firebase to a downloadable url
+- Fixed bugs and closed issues
+- Started a crash course on Spring security
+- Started employer service (PR raised)
+- Compiled all previous assignment feedback and addressed it
 
 ## Aman's plan for next week
+- Finish employer service
+- Complete Unit tests for employer service and student service
+- Look into spring security/auth if required
+- Start working on integration tests
 
 
 ## Sarvagya's last week
