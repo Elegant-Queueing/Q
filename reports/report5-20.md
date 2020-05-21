@@ -8,11 +8,29 @@
 - Finish employee and student service completely (non-beta)
 
 ## This week's progress
+- Student service (everything except resume upload) done
+- Notification service beta-version done
+- Auth research done
+- Added unit tests for physical and window queue workflows
+- Closed some issues on the backend
+- Added styles to 2 pages
+- Started work on integrating notification service on Employee app
+- Code clean up and comments on Android app
+- Worked on bugs on Android app
+- Finished docs assignment
 
 ## Plan for next week
-
+- Tests for Android app
+- Finish Employee service
+- Bug fixes
+- Unit tests for all services in the backend
+- Integration tests
+- Finish integrating notification service on Employee app
+- Finish adding styles to the Employee app
 
 ## Agenda for meeting with TA
+- Remaining features, plan for next 3 weeks
+- Discuss approach for integration testing
 
 # Individual contributions
 
