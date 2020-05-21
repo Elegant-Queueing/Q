@@ -38,9 +38,12 @@
 - Add styles for employee web front end
 - Add new connections/API calls corresponding to back-end changes
 ## Alex's progress
+- Added styles for web front end (2 pages)
+- Attempted to add firebase messaging in employee web app
 
 ## Alex's plan for next week
-
+- Finish styles
+- Finish firebase messaging
 
 ## Connor last week
 - Clean up the front end to clean up tech debt and modularize
@@ -58,10 +61,14 @@
 - Finish login authentication
 
 ## Sachin's progress
-
+- Discussed major bugs and fixing strategy
+- Reviewed PRs
+- Researched auth
+- Brainstorming on notification services
+- Added validation library
 
 ## Sachin's plan for next week
-
+- Write unit and integration tests
 
 ## Aman's last week
 - Finish up remaining non-beta stuff in employee/student service
@@ -77,6 +84,10 @@
 - Work on real time communication of back end to front end
 
 ## Sarvagya's progress
+- Added notification service (beta-version)
+- Added unit tests to queue workflows
+- Fixed and closed GitHub issues on the back-end
 
 ## Sarvagya's plan for next week
-
+- Integrate notification with the front-ends
+- Work on writing the unit and integration tests for queue service
