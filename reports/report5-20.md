@@ -50,9 +50,10 @@
 - Clean up the front end to clean up tech debt and modularize
 - Complete existing pages to match mockups
 ## Connor progress
-
+- front end code mostly cleaned up, comments added to headers
 ## Connor plan for next week
-
+- fix existing bugs on the front end
+- polish existing pages
 
 ## Sachin's last week
 - Research and strategize plan to migrate to websockets
