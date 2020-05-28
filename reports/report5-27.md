@@ -54,8 +54,12 @@
 - polish existing pages
 
 ## Connor progress
+- Fixed major bug in fair and company list
+- Completed majority of authentication
 
 ## Connor plan for next week
+- Add tokens to api headers
+- Complete profile page
 
 ## Sachin's last week
 - Write unit and integration tests
