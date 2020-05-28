@@ -43,13 +43,16 @@
 - Finish firebase messaging
 
 ## Alex's progress
+- Finish adding CSS
+- Added firebase messaging in employee web app
 
 ## Alex's plan for next week
-
+- Add firebase authentication to the employee web app
 
 ## Connor last week
 - fix existing bugs on the front end
 - polish existing pages
+
 ## Connor progress
 
 ## Connor plan for next week
@@ -58,9 +61,13 @@
 - Write unit and integration tests
 
 ## Sachin's progress
+- Implemented firebase authentication
+- Reviewed PRs
 
 ## Sachin's plan for next week
-
+- Finish virtual queue service and queue service's remaining tests
+- Work on end to end testing
+- Maybe some integration testing
 
 ## Aman's last week
 - Finish employer service
@@ -69,14 +76,22 @@
 - Start working on integration tests
 
 ## Aman's progress
+- Finished Employee Service
+- Finished Employee Service tests
+- Finished Student Service tests
 
 ## Aman's plan for next week
-
+- Finish Firebase workflow tests
+- Finish Validation service tests
 
 ## Sarvagya's last week
 - Integrate notification with the front-ends
 - Work on writing the unit and integration tests for queue service
 
 ## Sarvagya's progress
+- Almost finished queue service tests, only rtldr's left
+- Finished authentication
 
 ## Sarvagya's plan for next week
+- Integration tests
+- End to end tests
